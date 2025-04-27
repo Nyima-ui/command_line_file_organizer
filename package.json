@@ -1,0 +1,19 @@
+{
+  "name": "command_line_file_organizer",
+  "version": "1.0.0",
+  "description": "command_line_file_organizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nyima-ui/command_line_file_organizer.git"
+  },
+  "author": "Tenzin Nyima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nyima-ui/command_line_file_organizer/issues"
+  },
+  "homepage": "https://github.com/Nyima-ui/command_line_file_organizer#readme"
+}
